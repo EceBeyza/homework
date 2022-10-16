@@ -1,2 +1,2 @@
-# homework
-Patika.com için ilk ödev.
+# Homework
+First Homework for Patika.com
